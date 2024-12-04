@@ -16,6 +16,10 @@
 - Which suppliers have the most efficient manufacturing processes?
 - What demographic group contributes the most to sales?
 
+**  Conclusion:**
+- This project provided deep insights into product performance, customer behavior, supplier efficiency, and shipping cost management, enabling data-driven decisions to enhance the overall supply chain.
+
+
 **Deliverables Expected:**
 -	Python Notebook: A comprehensive Python notebook showcasing relationships, predictions, and evaluation.
 -	Dashboard: An interactive dashboard created using Power BI.
