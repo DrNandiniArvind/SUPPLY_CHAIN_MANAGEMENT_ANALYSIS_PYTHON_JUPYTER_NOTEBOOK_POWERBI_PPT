@@ -17,6 +17,6 @@
 - What demographic group contributes the most to sales?
 
 **Deliverables Expected:**
-•	Python Notebook: A comprehensive Python notebook showcasing relationships, predictions, and evaluation.
-•	Dashboard: An interactive dashboard created using Power BI.
-•	Presentation: A PowerPoint report featuring graphs, insights, and actionable recommendations.
+-	Python Notebook: A comprehensive Python notebook showcasing relationships, predictions, and evaluation.
+-	Dashboard: An interactive dashboard created using Power BI.
+-	Presentation: A PowerPoint report featuring graphs, insights, and actionable recommendations.
